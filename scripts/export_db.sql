@@ -1,0 +1,1 @@
+EXPORT DATABASE 'data/final/csvs' (FORMAT CSV, HEADER TRUE);
